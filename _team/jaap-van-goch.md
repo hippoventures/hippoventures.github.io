@@ -2,7 +2,7 @@
 title: "Jaap van Goch"
 date: 2022-11-19T10:47:58+10:00
 image: "images/team/jaap-van-goch.jpg"
-jobtitle: "Director"
+jobtitle: "Managing Director"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 1

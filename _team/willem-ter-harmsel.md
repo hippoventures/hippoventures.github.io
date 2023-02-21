@@ -2,7 +2,7 @@
 title: "Willem Ter Harmsel"
 date: 2022-11-19T10:47:58+10:00
 image: "images/team/willem-ter-harmsel.jpg"
-jobtitle: "Advisor"
+jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 4
