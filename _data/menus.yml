@@ -1,6 +1,6 @@
 main:
   - name: "Portfolio"
-    url: "/portfoliocompanies/"
+    url: "/portfolio/"
     weight: 2
   - name: "Team"
     url: "/team/"
