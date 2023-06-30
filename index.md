@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-## Hippo Ventures
+## Hippo Ventures BV: Where Substance Comes First, Money Follows Suit!
 
-Hippo Ventures BV is een bedrijf dat eerst naar de inhoud, dan naar de cijfers kijkt. Geld volgt inhoud, nooit andersom. We zijn geïnteresseerd in techniek, markt en finance en vinden het fantastisch om management en bedrijven naar de volgende fase te helpen.
+At Hippo Ventures BV, we prioritize substance over numbers. It's all about letting content lead the way, never the other way around. With a keen interest in technology, markets, and finance, we excel at propelling management and businesses towards the next phase. Let us take you on an exhilarating journey of growth and success!
