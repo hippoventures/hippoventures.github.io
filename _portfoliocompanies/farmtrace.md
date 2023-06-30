@@ -1,7 +1,7 @@
 ---
 title: "FarmTrace"
 date: 2018-11-18T12:33:46+10:00
-image: "images/farmtrace.png"
+image: "images/portfolio/farmtrace.png"
 weight: 1
 ---
 

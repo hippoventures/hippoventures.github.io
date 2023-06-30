@@ -1,7 +1,7 @@
 ---
 title: "Loui Cocktails"
 date: 2018-11-18T12:33:46+10:00
-image: "images/loui.png"
+image: "images/portfolio/loui.png"
 weight: 2
 ---
 

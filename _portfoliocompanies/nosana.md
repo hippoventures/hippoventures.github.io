@@ -1,7 +1,7 @@
 ---
 title: "Nosana"
 date: 2018-11-18T12:33:46+10:00
-image: "images/nosana.png"
+image: "images/portfolio/nosana.png"
 weight: 3
 ---
 
