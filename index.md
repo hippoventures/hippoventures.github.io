@@ -4,7 +4,7 @@ layout: home
 description: The homepage for Hippo Ventures company located in The Netherlands. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 

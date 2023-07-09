@@ -1,8 +1,9 @@
 ---
 title: "Loui Cocktails"
 date: 2018-11-18T12:33:46+10:00
-image: "images/portfolio/loui.png"
+intro_image: "images/portfolio/loui.png"
 intro_image_absolute: true
+intro_image_hide_on_mobile: false
 weight: 2
 ---
 
