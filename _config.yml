@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "120px"
   desktop: "images/logo/hippo-ventures-logo.png"
-  desktop_height: "128px"
-  desktop_width: "480px"
+  desktop_height: "64px"
+  desktop_width: "240px"
 
 home: 
   limit_portfoliocompanies: 6
