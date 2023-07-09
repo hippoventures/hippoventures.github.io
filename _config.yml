@@ -4,8 +4,8 @@ title: 'Hippo Ventures'
 
 logo:
   mobile: "images/logo/hippo-ventures-logo-mobile.png"
-  mobile_height: "32px"
-  mobile_width: "120px"
+  mobile_height: "64px"
+  mobile_width: "240px"
   desktop: "images/logo/hippo-ventures-logo.png"
   desktop_height: "64px"
   desktop_width: "240px"
